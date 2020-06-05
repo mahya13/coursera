@@ -1,0 +1,186 @@
+Index: Management of Fashion and Luxury Companies _ Coursera.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Management of Fashion and Luxury Companies _ Coursera.html	(revision c47c1ac6eb96f95b55fab02f0e7f180332656179)
++++ Management of Fashion and Luxury Companies _ Coursera.html	(date 1591339070448)
+@@ -7913,6 +7913,7 @@
+                                         <div class="_jyhj5r" data-reactid="569">
+                                             <div class="_1vl6vh3k p-y-1 p-l-1" data-reactid="570">
+                                                 <div class="rc-Partner" data-reactid="571">
++                                                    _lriijlm m-b-3 headline-4-text bold text-xs-right
+                                                     <img
+                                                             src="./Management of Fashion and Luxury Companies _ Coursera_files/logo_180x180.png" class="avatar-container m-l-2"
+                                                             style="max-width:120px;max-height:120px;"
+@@ -8505,7 +8506,7 @@
+                              role="presentation">
+                             <div class="_1d3lkver">
+                                 <div>
+-                                    <h3 class="_lriijlm m-b-3 headline-4-text bold text-xs-left">People interested in
++                                    <h3 class="_lriijlm m-b-3 headline-4-text bold text-xs-right>People interested in
+                                         this course also viewed
+                                     </h3>
+                                     <div class="rc-ProductsSlider">
+@@ -9242,7 +9243,7 @@
+                                                     <div class="hidden-sm-down m-t-1 m-b-2" data-reactid="626">
+                                                         <div class="_1qfi0x77" data-test="duration-text-section"
+                                                              data-reactid="627">
+-                                                            <div class="m-r-1" aria-hidden="true" data-reactid="628">
++                                                            <div class="m-l-1" aria-hidden="true" data-reactid="628">
+                                                                 <div class="_eo0j7w" style="border-radius:50%;"
+                                                                      data-reactid="629">
+                                                                     <div class="_473mf9o"
+@@ -9304,7 +9305,7 @@
+                                                     <div class="hidden-sm-up m-t-1" data-reactid="643">
+                                                         <div class="_1qfi0x77" data-test="duration-text-section"
+                                                              data-reactid="644">
+-                                                            <div class="m-r-1" aria-hidden="true" data-reactid="645">
++                                                            <div class="m-l-1" aria-hidden="true" data-reactid="645">
+                                                                 <div class="_eo0j7w" style="border-radius:50%;"
+                                                                      data-reactid="646">
+                                                                     <div class="_473mf9o"
+@@ -9334,7 +9335,7 @@
+                                                     </div>
+                                                     <div class="_1qfi0x77 m-b-2" data-reactid="653">
+                                                         <div class="_1qfi0x77 p-y-1" data-reactid="654">
+-                                                            <div class="m-r-1" data-reactid="655">
++                                                            <div class="m-l-1" data-reactid="655">
+                                                                 <div class="_u2c01j" style="border-radius:50%;"
+                                                                      data-reactid="656">
+                                                                     <div class="_473mf9o"
+@@ -9580,7 +9581,7 @@
+                                                     <div class="hidden-sm-down m-t-1 m-b-2" data-reactid="773">
+                                                         <div class="_1qfi0x77" data-test="duration-text-section"
+                                                              data-reactid="774">
+-                                                            <div class="m-r-1" aria-hidden="true" data-reactid="775">
++                                                            <div class="m-l-1" aria-hidden="true" data-reactid="775">
+                                                                 <div class="_eo0j7w" style="border-radius:50%;"
+                                                                      data-reactid="776">
+                                                                     <div class="_473mf9o"
+@@ -9634,7 +9635,7 @@
+                                                     <div class="hidden-sm-up m-t-1" data-reactid="790">
+                                                         <div class="_1qfi0x77" data-test="duration-text-section"
+                                                              data-reactid="791">
+-                                                            <div class="m-r-1" aria-hidden="true" data-reactid="792">
++                                                            <div class="m-l-1" aria-hidden="true" data-reactid="792">
+                                                                 <div class="_eo0j7w" style="border-radius:50%;"
+                                                                      data-reactid="793">
+                                                                     <div class="_473mf9o"
+@@ -9664,7 +9665,7 @@
+                                                     </div>
+                                                     <div class="_1qfi0x77 m-b-2" data-reactid="800">
+                                                         <div class="_1qfi0x77 p-y-1" data-reactid="801">
+-                                                            <div class="m-r-1" data-reactid="802">
++                                                            <div class="m-l-1" data-reactid="802">
+                                                                 <div class="_u2c01j" style="border-radius:50%;"
+                                                                      data-reactid="803">
+                                                                     <div class="_473mf9o"
+@@ -9902,7 +9903,7 @@
+                                                     <div class="hidden-sm-down m-t-1 m-b-2" data-reactid="916">
+                                                         <div class="_1qfi0x77" data-test="duration-text-section"
+                                                              data-reactid="917">
+-                                                            <div class="m-r-1" aria-hidden="true" data-reactid="918">
++                                                            <div class="m-l-1" aria-hidden="true" data-reactid="918">
+                                                                 <div class="_eo0j7w" style="border-radius:50%;"
+                                                                      data-reactid="919">
+                                                                     <div class="_473mf9o"
+@@ -9962,7 +9963,7 @@
+                                                     <div class="hidden-sm-up m-t-1" data-reactid="933">
+                                                         <div class="_1qfi0x77" data-test="duration-text-section"
+                                                              data-reactid="934">
+-                                                            <div class="m-r-1" aria-hidden="true" data-reactid="935">
++                                                            <div class="m-l-1" aria-hidden="true" data-reactid="935">
+                                                                 <div class="_eo0j7w" style="border-radius:50%;"
+                                                                      data-reactid="936">
+                                                                     <div class="_473mf9o"
+@@ -9992,7 +9993,7 @@
+                                                     </div>
+                                                     <div class="_1qfi0x77 m-b-2" data-reactid="943">
+                                                         <div class="_1qfi0x77 p-y-1" data-reactid="944">
+-                                                            <div class="m-r-1" data-reactid="945">
++                                                            <div class="m-l-1" data-reactid="945">
+                                                                 <div class="_u2c01j" style="border-radius:50%;"
+                                                                      data-reactid="946">
+                                                                     <div class="_473mf9o"
+@@ -10223,7 +10224,7 @@
+                                                     <div class="hidden-sm-down m-t-1 m-b-2" data-reactid="1043">
+                                                         <div class="_1qfi0x77" data-test="duration-text-section"
+                                                              data-reactid="1044">
+-                                                            <div class="m-r-1" aria-hidden="true" data-reactid="1045">
++                                                            <div class="m-l-1" aria-hidden="true" data-reactid="1045">
+                                                                 <div class="_eo0j7w" style="border-radius:50%;"
+                                                                      data-reactid="1046">
+                                                                     <div class="_473mf9o"
+@@ -10280,7 +10281,7 @@
+                                                     <div class="hidden-sm-up m-t-1" data-reactid="1060">
+                                                         <div class="_1qfi0x77" data-test="duration-text-section"
+                                                              data-reactid="1061">
+-                                                            <div class="m-r-1" aria-hidden="true" data-reactid="1062">
++                                                            <div class="m-l-1" aria-hidden="true" data-reactid="1062">
+                                                                 <div class="_eo0j7w" style="border-radius:50%;"
+                                                                      data-reactid="1063">
+                                                                     <div class="_473mf9o"
+@@ -10310,7 +10311,7 @@
+                                                     </div>
+                                                     <div class="_1qfi0x77 m-b-2" data-reactid="1070">
+                                                         <div class="_1qfi0x77 p-y-1" data-reactid="1071">
+-                                                            <div class="m-r-1" data-reactid="1072">
++                                                            <div class="m-l-1" data-reactid="1072">
+                                                                 <div class="_u2c01j" style="border-radius:50%;"
+                                                                      data-reactid="1073">
+                                                                     <div class="_473mf9o"
+@@ -10542,7 +10543,7 @@
+                                                     <div class="hidden-sm-down m-t-1 m-b-2" data-reactid="1167">
+                                                         <div class="_1qfi0x77" data-test="duration-text-section"
+                                                              data-reactid="1168">
+-                                                            <div class="m-r-1" aria-hidden="true" data-reactid="1169">
++                                                            <div class="m-l-1" aria-hidden="true" data-reactid="1169">
+                                                                 <div class="_eo0j7w" style="border-radius:50%;"
+                                                                      data-reactid="1170">
+                                                                     <div class="_473mf9o"
+@@ -10605,7 +10606,7 @@
+                                                     <div class="hidden-sm-up m-t-1" data-reactid="1184">
+                                                         <div class="_1qfi0x77" data-test="duration-text-section"
+                                                              data-reactid="1185">
+-                                                            <div class="m-r-1" aria-hidden="true" data-reactid="1186">
++                                                            <div class="m-l-1" aria-hidden="true" data-reactid="1186">
+                                                                 <div class="_eo0j7w" style="border-radius:50%;"
+                                                                      data-reactid="1187">
+                                                                     <div class="_473mf9o"
+@@ -10635,7 +10636,7 @@
+                                                     </div>
+                                                     <div class="_1qfi0x77 m-b-2" data-reactid="1194">
+                                                         <div class="_1qfi0x77 p-y-1" data-reactid="1195">
+-                                                            <div class="m-r-1" data-reactid="1196">
++                                                            <div class="m-l-1" data-reactid="1196">
+                                                                 <div class="_u2c01j" style="border-radius:50%;"
+                                                                      data-reactid="1197">
+                                                                     <div class="_473mf9o"
+@@ -10886,7 +10887,7 @@
+                                                     <div class="hidden-sm-down m-t-1 m-b-2" data-reactid="1302">
+                                                         <div class="_1qfi0x77" data-test="duration-text-section"
+                                                              data-reactid="1303">
+-                                                            <div class="m-r-1" aria-hidden="true" data-reactid="1304">
++                                                            <div class="m-l-1" aria-hidden="true" data-reactid="1304">
+                                                                 <div class="_eo0j7w" style="border-radius:50%;"
+                                                                      data-reactid="1305">
+                                                                     <div class="_473mf9o"
+@@ -10952,7 +10953,7 @@
+                                                     <div class="hidden-sm-up m-t-1" data-reactid="1319">
+                                                         <div class="_1qfi0x77" data-test="duration-text-section"
+                                                              data-reactid="1320">
+-                                                            <div class="m-r-1" aria-hidden="true" data-reactid="1321">
++                                                            <div class="m-l-1" aria-hidden="true" data-reactid="1321">
+                                                                 <div class="_eo0j7w" style="border-radius:50%;"
+                                                                      data-reactid="1322">
+                                                                     <div class="_473mf9o"
+@@ -10982,7 +10983,7 @@
+                                                     </div>
+                                                     <div class="_1qfi0x77 m-b-2" data-reactid="1329">
+                                                         <div class="_1qfi0x77 p-y-1" data-reactid="1330">
+-                                                            <div class="m-r-1" data-reactid="1331">
++                                                            <div class="m-l-1" data-reactid="1331">
+                                                                 <div class="_u2c01j" style="border-radius:50%;"
+                                                                      data-reactid="1332">
+                                                                     <div class="_473mf9o"
