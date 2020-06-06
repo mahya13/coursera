@@ -1,7 +1,138 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f41df744-35de-43d5-9e9d-430c0aa5e8f7" name="Default Changelist" comment="" />
+    <list default="true" id="f41df744-35de-43d5-9e9d-430c0aa5e8f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/box-469cf41adb11dc78be68c1ae7f9457a4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/allStyles.8fa4f3dcd141ed38a49a.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/HELP-US-OUT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/MOOC-logo_wide.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/SvgBook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/SvgInstructor.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/SvgMembers.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/bocconi(1).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/bocconi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/bocconi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/braid.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/download_on_the_app_store_badge_en.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/en_generic_rgb_wo_45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons/SvgBook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons/SvgMembers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons/instagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons/linkedin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icons/youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/linkedin-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/linkedin-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/logo-for-mooc-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/logo_180x180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/macro-food-modif1-cielo_v02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/profiles/Dan_Gutierrez.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/profiles/Lisa_Leniashina.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/profiles/Natalie_Hanisch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/profiles/Stefania-Saviolo-cropped.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/profiles/corbellini280(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/profiles/corbellini280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/14.824def759b45e071a184.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/15.6075f621e181af8c7455.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/21.3939ae4f99d4e199af34.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/26.eb67fc4335437f977fe1.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/30.0a7ef22c38b7f2592f0f.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/31.822f519adebf20b47722.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/40.680847d35ea4bf69b69f.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/42.13465bc787a6d1df3487.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/50.e5008e032074d8f028d5.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/8.3f6d6db5699b91fba7d9.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/OtAutoBlock.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/allStyles.8fa4f3dcd141ed38a49a.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/en.0.45cae29b2a60774e2bb3.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/en.13.0a733f183a3b2808c37a.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/en.19.0e168872ac411cc5e442.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/en.23.ea2868568a575214c088.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/en.33.b122b0f43b0af105faa6.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/en.4.11d1cce8beed45591ede.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/en.43.811e059e50cf7419643a.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/en.7.e19e4dd8291b5a2ece02.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/en.app.7e63d2b10609e314c194.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/en.asyncCommonJS.f3d3923f4c9e496c8d27.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/gtm.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/hotjar-469298.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/loader.2cd063ec45e2a3c7357e.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/modules.86894929204a09eb4a2e.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/otSDKStub.js.download" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_05_06_2020_12_09_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_05_06_2020_12_09_PM__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera.html" beforeDir="false" afterPath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/14.824def759b45e071a184.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/15.6075f621e181af8c7455.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/21.3939ae4f99d4e199af34.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/26.eb67fc4335437f977fe1.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/30.0a7ef22c38b7f2592f0f.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/31.822f519adebf20b47722.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/40.680847d35ea4bf69b69f.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/42.13465bc787a6d1df3487.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/50.e5008e032074d8f028d5.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/8.3f6d6db5699b91fba7d9.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/Dan_Gutierrez.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/Lisa_Leniashina.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/Natalie_Hanisch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/OtAutoBlock.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/Stefania-Saviolo-cropped.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/SvgBook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/SvgInstructor.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/SvgMembers.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/allStyles.8fa4f3dcd141ed38a49a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/allStyles.8fa4f3dcd141ed38a49a.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/bocconi(1).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/bocconi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/box-469cf41adb11dc78be68c1ae7f9457a4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/corbellini280(1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/corbellini280.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/download_on_the_app_store_badge_en.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/en.0.45cae29b2a60774e2bb3.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/en.13.0a733f183a3b2808c37a.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/en.19.0e168872ac411cc5e442.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/en.23.ea2868568a575214c088.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/en.33.b122b0f43b0af105faa6.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/en.4.11d1cce8beed45591ede.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/en.43.811e059e50cf7419643a.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/en.7.e19e4dd8291b5a2ece02.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/en.app.7e63d2b10609e314c194.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/en.asyncCommonJS.f3d3923f4c9e496c8d27.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/en_generic_rgb_wo_45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/fonts/HELP-US-OUT.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/gtm.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/hotjar-469298.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/images/SvgBook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/images/SvgMembers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/images/bocconi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/linkedin-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/linkedin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/loader.2cd063ec45e2a3c7357e.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/logo_180x180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/modules.86894929204a09eb4a2e.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/otSDKStub.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera_files/youtube.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +144,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="mahya" />
+        <entry key="$PROJECT_DIR$" value="simin" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,6 +180,7 @@
       <workItem from="1591335665720" duration="671000" />
       <workItem from="1591336396955" duration="53000" />
       <workItem from="1591336601036" duration="5044000" />
+      <workItem from="1591421360644" duration="6557000" />
     </task>
     <task id="LOCAL-00001" summary="deleting unwanted navbar items">
       <created>1591269544290</created>
@@ -109,10 +241,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591268799466" />
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1591297487011">
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1591361171852">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591297487011" />
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591361171852" />
+    <state x="567" y="70" width="456" height="684" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591426709855">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="567" y="70" width="456" height="684" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1591426709855" />
     <state x="490" y="132" width="604" height="534" key="find.popup" timestamp="1591288699152">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -121,5 +257,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="550" y="125" key="git4idea.branch.GitSmartOperationDialog/0.0.1536.824@0.0.1536.824" timestamp="1591342799035" />
+    <state x="499" y="201" key="git4idea.merge.GitPullDialog" timestamp="1591360950822">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="201" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1591360950822" />
   </component>
 </project>
