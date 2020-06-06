@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f41df744-35de-43d5-9e9d-430c0aa5e8f7" name="Default Changelist" comment="adding assets folder and change dir to this">
-      <change afterPath="$PROJECT_DIR$/assets/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera.html" beforeDir="false" afterPath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/IRANSans.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/IRANSans_Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/IRANSans_Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/IRANSans_Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/IRANSans_UltraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/management course.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Management of Fashion and Luxury Companies _ Coursera.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/allStyles.8fa4f3dcd141ed38a49a.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/allStyles.8fa4f3dcd141ed38a49a.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
